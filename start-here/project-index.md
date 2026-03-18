@@ -5,19 +5,19 @@ This page lists the main projects, labs, troubleshooting cases, and tooling work
 ## Current Status
 
 - **Current stage:** Foundation + Fast Wins
-- **Current project:** Project 1.1 — Portfolio Hub Setup
-- **Focus:** Build the central portfolio structure, improve navigation, and prepare the repo for future proof-based projects
+- **Current project:** Project 1.3 — Azure Setup + Cleanup Proof (Next Up)
+- **Focus:** Continue Foundation + Fast Wins by adding cloud setup and cleanup proof after completing the initial hub and first troubleshooting case pack
 
 ---
 
 ## Foundation + Fast Wins
 
 ### Project 1.1 — Portfolio Hub Setup
-**Status:** In Progress  
+**Status:** Completed  
 **Purpose:** Build the main GitHub hub that will organize all portfolio proof, project pages, templates, artifacts, and skill mapping.
 
 ### Project 1.2 — Website Unreachable Case Pack
-**Status:** Planned  
+**Status:** Completed  
 **Purpose:** Create a strong troubleshooting case around an unreachable website or service using DNS, HTTP, and path-check reasoning.
 
 ### Project 1.3 — Azure Setup + Cleanup Proof
@@ -148,3 +148,4 @@ Future improvements may include:
 - proof links
 - artifact links
 - status updates such as Planned, In Progress, Completed, and Packaged
+
