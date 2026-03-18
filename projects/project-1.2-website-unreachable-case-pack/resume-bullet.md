@@ -1,0 +1,1 @@
+- Built a website reachability troubleshooting case pack using DNS, HTTP, and route/path checks, then documented an evidence-backed diagnosis, clear next actions, a reusable runbook, and a simple troubleshooting flow diagram.
