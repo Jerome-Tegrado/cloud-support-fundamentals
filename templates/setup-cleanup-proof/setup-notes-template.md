@@ -1,4 +1,4 @@
-# Setup Notes Template
+# Setup Notes
 
 ## Setup Context
 - Project Name:
@@ -6,39 +6,40 @@
 
 ## Prerequisites
 - Access requirements:
-- Installed tools and versions:
+- Tools needed:
 - Required permissions/roles:
 
 ## Baseline Checks
-- Current state check command(s):
+- Current state:
+- Check command(s):
 - Expected baseline output:
 
 ## Setup Steps
 1. Step:
-   - Command/Action:
+   - Action/Command:
    - Expected Output:
 2. Step:
-   - Command/Action:
+   - Action/Command:
    - Expected Output:
 3. Step:
-   - Command/Action:
+   - Action/Command:
    - Expected Output:
 
 ## Configuration Details
-- Resource naming pattern:
+- Naming pattern:
 - Region:
 - Tags:
-- Cost/sku choices:
+- SKU/Cost choices:
 
 ## Validation
 - Verification command(s):
-- Validation screenshot path(s):
+- Screenshot path(s):
 - Success criteria:
 
 ## Risks and Notes
-- Potential risk:
-- Mitigation:
+- Risk:
+  - Mitigation:
 
 ## Handoff Notes
-- What is ready for next phase:
-- What still needs action:
+- Ready for next phase:
+- Remaining action needed:

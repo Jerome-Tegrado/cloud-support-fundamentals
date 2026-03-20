@@ -1,36 +1,36 @@
-# Cleanup Notes Template
+# Cleanup Notes
 
 ## Cleanup Context
 - Project Name:
 - Date:
 
 ## Reason for Cleanup
-Summarize why resources or changes are being removed.
+Summarize why the resources or changes are being removed.
 
 ## Resources Targeted
 - Resource Group(s):
 - Resource(s):
-- Related dependencies:
+- Dependencies:
 
 ## Pre-Cleanup Checks
-- Backup/Export completed:
+- Backup/export completed:
 - Evidence captured:
-- Approval/reference ticket:
+- Approval/reference:
 
 ## Cleanup Steps
 1. Step:
-   - Command/Action:
+   - Action/Command:
    - Expected Result:
 2. Step:
-   - Command/Action:
+   - Action/Command:
    - Expected Result:
 3. Step:
-   - Command/Action:
+   - Action/Command:
    - Expected Result:
 
 ## Post-Cleanup Validation
 - Verification command(s):
-- Validation screenshot path(s):
+- Screenshot path(s):
 - Confirmation notes:
 
 ## Issues Encountered
