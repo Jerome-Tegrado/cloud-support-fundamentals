@@ -74,7 +74,6 @@ entry-tech-portfolio-hub/
 1. Open the roadmap in `start-here/project-index.md`.
 2. Review completed case packs under `projects/`.
 3. Use `templates/` to create your own project in the same format.
-4. Add evidence and a resume bullet for each completed case.
 
 ---
 
