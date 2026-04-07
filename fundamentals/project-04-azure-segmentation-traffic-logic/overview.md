@@ -28,5 +28,6 @@ Validated allowed frontend-to-backend HTTP on port 80 and blocked frontend-to-ba
 - `evidence/denied-port22.png`
 - `evidence/nsg-rule-allow-frontendtobackend-http.png`
 - `evidence/nsg-rule-deny-port22.png`
-- `diagrams/asg-segmentation-lab-diagram.drawio.png`
+- `diagrams/project-04-segmentation-traffic-logic-diagram.png`
+
 

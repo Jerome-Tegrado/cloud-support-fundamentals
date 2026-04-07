@@ -26,5 +26,6 @@ Validated a full control cycle: SSH success baseline, SSH failure after deny rul
 - `evidence/allow-ssh-success.png`
 - `evidence/deny-ssh-success.png`
 - `evidence/deny-ssh-rule-deleted-success.png`
-- `diagrams/phase2-project1-nsg-diagram.png`
+- `diagrams/project-03-network-troubleshooting-diagram.png`
+
 
